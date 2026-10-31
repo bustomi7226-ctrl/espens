@@ -1,0 +1,9 @@
+<!-- Pada Desktop Nav (di dalam <nav class="...">) -->
+<a href="artikel.html" class="hover:text-lime-400 transition">Artikel</a>
+<a href="tentang-kami.html" class="hover:text-lime-400 transition">Tentang Kami</a>
+<a href="referensi.html" class="hover:text-lime-400 transition">Referensi</a>
+
+<!-- Pada Mobile Menu Nav (di dalam div mobile menu) -->
+<a href="artikel.html" class="block py-2 hover:text-lime-400 transition">Artikel</a>
+<a href="tentang-kami.html" class="block py-2 hover:text-lime-400 transition">Tentang Kami</a>
+<a href="referensi.html" class="block py-2 hover:text-lime-400 transition">Referensi</a>
